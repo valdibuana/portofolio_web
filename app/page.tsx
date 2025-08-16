@@ -152,7 +152,7 @@ export default function ArtPortfolio() {
       >
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-amber-600 to-blue-600 bg-clip-text text-transparent">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-lg text-slate-600 mb-8">
             Tertarik untuk berkolaborasi? Mari terhubung.
